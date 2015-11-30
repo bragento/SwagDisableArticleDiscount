@@ -1,0 +1,1 @@
+Dieses Plugin bietet die Möglichkeit Artikel zu bestimmen, die vom Warenkorbrabatt ausgeschlossen werden.
