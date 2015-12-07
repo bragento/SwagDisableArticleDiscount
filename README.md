@@ -1,5 +1,8 @@
 # SwagDisableArticleDiscount
 
+## Supported versions
+Shopware version 4.0.6 or higher
+
 ## Description
 
 This plugin makes it possible to exclude items from being discounted in the shopping cart (preferences/customer groups). 
