@@ -1,7 +1,6 @@
 # SwagDisableArticleDiscount
-
-## Supported versions
-Shopware version 4.0.6 or higher
+> Working with Shopware version 4.0.6 to 5.1.1.
+> Higher versions may work either but were not tested.
 
 ## Description
 
