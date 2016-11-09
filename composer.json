@@ -1,0 +1,17 @@
+{
+  "name": "bragento/swag-disable-article-discount",
+  "type": "shopware-frontend-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Niklas Gödde",
+      "email": "ng@shopware.com"
+    }
+  ],
+  "extra": {
+    "installer-name": "SwagDisableArticleDiscount"
+  }
+}
